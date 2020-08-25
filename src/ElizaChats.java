@@ -5,6 +5,8 @@ public class ElizaChats {
 
         Scanner input = new Scanner(System.in);
 
+        //Another way to be Eliza, String keybd = "quote";
+
         System.out.println("Welcome to ElizaChats! My name is Eliza, What's your name?");
 
         String name = input.nextLine();
